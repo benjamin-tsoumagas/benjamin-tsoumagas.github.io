@@ -1,0 +1,8 @@
+body {
+    background-color: #ffb6c1;
+
+}
+img {
+    border-radius: 115px; /*Give rounded corner*/
+    padding: 10px; /*Give space around the image*/
+}
